@@ -1,6 +1,6 @@
 # TipCalculator
 
-This is a Tip Calculator application for iOS submitted as the [pre-assignment](https://gist.github.com/timothy1ee/7747214) requirement for Codepath.
+This is a Tip Calculator application for iOS submitted as the [pre-assignment](https://gist.github.com/timothy1ee/6858b706304a2397a7e2) requirement for Codepath.
 
 Time spent: 5 hours
 
@@ -15,6 +15,6 @@ Completed:
 
 
 
-![Video Walkthrough](tips.gif)
+![Video Walkthrough](Tips.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
