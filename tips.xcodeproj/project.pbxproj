@@ -13,6 +13,8 @@
 		9C8BD3941A7F01FA00284B01 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C8BD3931A7F01FA00284B01 /* Images.xcassets */; };
 		9C8BD3971A7F01FA00284B01 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9C8BD3951A7F01FA00284B01 /* LaunchScreen.xib */; };
 		9C8BD3A31A7F01FA00284B01 /* tipsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8BD3A21A7F01FA00284B01 /* tipsTests.swift */; };
+		9C8BD3B11A7F4C3500284B01 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8BD3B01A7F4C3500284B01 /* SettingsViewController.swift */; };
+		9C8BD3B31A7F6A8900284B01 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 9C8BD3B21A7F6A8900284B01 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		9C8BD39C1A7F01FA00284B01 /* tipsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C8BD3A11A7F01FA00284B01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9C8BD3A21A7F01FA00284B01 /* tipsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipsTests.swift; sourceTree = "<group>"; };
+		9C8BD3B01A7F4C3500284B01 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		9C8BD3B21A7F6A8900284B01 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,7 @@
 		9C8BD37E1A7F01FA00284B01 = {
 			isa = PBXGroup;
 			children = (
+				9C8BD3B21A7F6A8900284B01 /* README.md */,
 				9C8BD3891A7F01FA00284B01 /* tips */,
 				9C8BD39F1A7F01FA00284B01 /* tipsTests */,
 				9C8BD3881A7F01FA00284B01 /* Products */,
@@ -79,6 +84,7 @@
 			children = (
 				9C8BD38C1A7F01FA00284B01 /* AppDelegate.swift */,
 				9C8BD38E1A7F01FA00284B01 /* ViewController.swift */,
+				9C8BD3B01A7F4C3500284B01 /* SettingsViewController.swift */,
 				9C8BD3901A7F01FA00284B01 /* Main.storyboard */,
 				9C8BD3931A7F01FA00284B01 /* Images.xcassets */,
 				9C8BD3951A7F01FA00284B01 /* LaunchScreen.xib */,
@@ -214,6 +220,8 @@
 			files = (
 				9C8BD38F1A7F01FA00284B01 /* ViewController.swift in Sources */,
 				9C8BD38D1A7F01FA00284B01 /* AppDelegate.swift in Sources */,
+				9C8BD3B31A7F6A8900284B01 /* README.md in Sources */,
+				9C8BD3B11A7F4C3500284B01 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
